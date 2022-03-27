@@ -198,30 +198,64 @@ http://iptv.tvfix.org/hls/chchd.m3u8
 http://iptv.tvfix.org/hls/hhxdhd.m3u8
 #EXTINF:-1 ,北京冬奥纪实
 http://iptv.tvfix.org/hls/brtv11.m3u8
-有线18台,rtmp://59.124.75.138/sat/hk042
-民视,rtmp://59.124.75.138/sat/tv051
-台视,rtmp://59.124.75.138/sat/tv071
-中视,rtmp://59.124.75.138/sat/tv091
-华视,rtmp://59.124.75.138/sat/tv111
-TVBS·欢乐台,rtmp://59.124.75.138/sat/tv421
-TVBS欢乐,rtmp://59.124.75.138:1935/sat/tv421
-TVBS·新闻台,rtmp://59.124.75.138/sat/tv551
-TVBS新闻,rtmp://59.124.75.138:1935/sat/tv551
-东森财经新闻,rtmp://59.124.75.138:1935/sat/tv571
-纬来日本,rtmp://59.124.75.138/sat/tv771
-纬来育乐,rtmp://59.124.75.138/sat/tv701
-纬来体育,rtmp://59.124.75.138/sat/tv721
-ELEVEN1体育,rtmp://59.124.75.138:1935/sat/tv731
-ELEVEN2体育,rtmp://59.124.75.138:1935/sat/tv741
-MoMo综合台,rtmp://59.124.75.138/sat/tv761
-Mono综合,rtmp://59.124.75.138:1935/sat/tv761
-东森超视,rtmp://59.124.75.138/sat/tv521
-东森超视,rtmp://59.124.75.138:1935/sat/tv521
-博斯魅力,rtmp://59.124.75.138/sat/md011
-爱尔达体育1,rtmp://59.124.75.157/sat/md021
-爱尔达体育2,rtmp://59.124.75.157/sat/md031
-ELEVEN体育,rtmp://59.124.75.138/sat/md041
-博斯运动2,rtmp://59.124.75.138/sat/md051
+
+#EXTINF:-1 ,珠江频道FHD
+http://teyondx.weetai.cn:80/cdn1/iptv/tyzb01.php?id=gdzhujiangHD_7500&/PLTV/hls.smil.m3u8
+#EXTINF:-1 ,广东体育FHD
+http://teyondx.weetai.cn:80/cdn1/iptv/tyzb01.php?id=gdsportsHD_7000&/PLTV/hls.smil.m3u8
+#EXTINF:-1 ,广东经济FHD
+http://teyondx.weetai.cn:80/cdn1/iptv/tyzb01.php?id=GDjingjikejiaoHD_7000&/PLTV/hls.smil.m3u8
+#EXTINF:-1 ,广东综艺4K
+http://teyondx.weetai.cn:80/cdn1/iptv/tyzb01.php?id=GDZYHD4K_38000&/PLTV/hls.smil.m3u8
+
+#EXTINF:-1 ,有线18台
+rtmp://59.124.75.138/sat/hk042
+#EXTINF:-1 ,民视
+rtmp://59.124.75.138/sat/tv051
+#EXTINF:-1 ,台视
+rtmp://59.124.75.138/sat/tv071
+#EXTINF:-1 ,中视
+rtmp://59.124.75.138/sat/tv091
+#EXTINF:-1 ,华视
+rtmp://59.124.75.138/sat/tv111
+#EXTINF:-1 ,TVBS·欢乐台
+rtmp://59.124.75.138/sat/tv421
+#EXTINF:-1 ,TVBS欢乐
+rtmp://59.124.75.138:1935/sat/tv421
+#EXTINF:-1,TVBS·新闻台
+rtmp://59.124.75.138/sat/tv551
+#EXTINF:-1 ,TVBS新闻
+rtmp://59.124.75.138:1935/sat/tv551
+#EXTINF:-1 ,东森财经新闻
+rtmp://59.124.75.138:1935/sat/tv571
+#EXTINF:-1 ,纬来日本
+rtmp://59.124.75.138/sat/tv771
+#EXTINF:-1 ,纬来育乐
+rtmp://59.124.75.138/sat/tv701
+#EXTINF:-1 ,纬来体育
+rtmp://59.124.75.138/sat/tv721
+#EXTINF:-1 , ELEVEN1体育
+rtmp://59.124.75.138:1935/sat/tv731
+#EXTINF:-1 , ELEVEN2体育
+rtmp://59.124.75.138:1935/sat/tv741
+#EXTINF:-1 , MoMo综合台
+rtmp://59.124.75.138/sat/tv761
+#EXTINF:-1 , Mono综合
+rtmp://59.124.75.138:1935/sat/tv761
+#EXTINF:-1 ,东森超视
+rtmp://59.124.75.138/sat/tv521
+#EXTINF:-1 ,东森超视
+rtmp://59.124.75.138:1935/sat/tv521
+#EXTINF:-1 ,博斯魅力
+rtmp://59.124.75.138/sat/md011
+#EXTINF:-1 ,爱尔达体育1
+rtmp://59.124.75.157/sat/md021
+#EXTINF:-1 ,爱尔达体育2
+rtmp://59.124.75.157/sat/md031
+#EXTINF:-1 , ELEVEN体育
+rtmp://59.124.75.138/sat/md041
+#EXTINF:-1 ,博斯运动2
+rtmp://59.124.75.138/sat/md051
 
 #EXTINF:-1,星空衛視
 http://50.7.218.42:8278/xingkong/playlist.m3u8?tid=m61d2d25a9adb&ct=18335&tsum=bc464e6fb89211029ad1b93ac62830aa
