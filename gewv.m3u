@@ -323,6 +323,10 @@ http://50.7.218.42:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&
 http://50.7.218.42:8278/starentertainment_twn/playlist.m3u8?tid=m03b7fd7a033016076997&ct=17874&tsum=fe095a1f38d6ea608dc64c6b66e12833
 #EXTINF:-1,星衛電影
 http://50.7.218.42:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
+#EXTINF:-1,衛視電影
+http://211.23.114.106:12200/http/116.50.42.19:8081/hls/62/804/ch07.m3u8?token=7375646fb4e7374221759aaef85558595642a90e
+#EXTINF:-1,荷理活電影
+http://211.23.114.106:12205/http/116.50.42.19:8081/hls/74/816/ch55.m3u8?token=7375646fb4e7374221759aaef85558595642a90e
 #EXTINF:-1,緯來電影
 http://50.7.218.42:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
 #EXTINF:-1,龍華戲劇
